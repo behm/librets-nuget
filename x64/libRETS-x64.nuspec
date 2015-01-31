@@ -8,7 +8,7 @@
         <licenseUrl>https://github.com/NationalAssociationOfRealtors/libRETS/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/NationalAssociationOfRealtors/libRETS</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>64-bit: libRETS is RETS client library written in C++ that allows rapid development of RETS client applications. By saving the developer from dealing with the RETS protocol details, the application writer can concentrate on their application, saving them time and money in the process</description>
+        <description>64-bit: .NET binding library for libRETS, a RETS client library written in C++ that allows rapid development of RETS applications. By saving the developer from dealing with the RETS protocol details, the application writer can concentrate on their application.</description>
         <releaseNotes>See project site for release notes</releaseNotes>
         <copyright>Copyright 2015 National Association of Realtors</copyright>
         <tags>RETS realestate</tags>
