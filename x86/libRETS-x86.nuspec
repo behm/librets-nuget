@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>libRETS-x86</id>
-        <version>1.6.1</version>
+        <id>libRETS-dotnet</id>
+        <version>1.6.2</version>
         <authors>Center for REALTOR(r) Technology c/o Brian Behm</authors>
         <owners>bbehm</owners>
         <licenseUrl>https://github.com/NationalAssociationOfRealtors/libRETS/blob/master/LICENSE</licenseUrl>
@@ -10,7 +10,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>32-bit: .NET binding library for libRETS, a RETS client library written in C++ that allows rapid development of RETS applications. By saving the developer from dealing with the RETS protocol details, the application writer can concentrate on their application.</description>
         <releaseNotes>See project site for release notes</releaseNotes>
-        <copyright>Copyright 2015 National Association of Realtors</copyright>
+        <copyright>Copyright 2016 National Association of Realtors</copyright>
         <tags>RETS realestate</tags>
         <frameworkAssemblies>
             <frameworkAssembly assemblyName="librets-dotnet.dll" targetFramework="" />
