@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>libRETS-x64</id>
-        <version>1.6.3-beta1</version>
+        <version>1.6.3</version>
         <authors>Center for REALTOR(r) Technology c/o Brian Behm</authors>
         <owners>bbehm</owners>
         <licenseUrl>https://github.com/NationalAssociationOfRealtors/libRETS/blob/master/LICENSE</licenseUrl>
